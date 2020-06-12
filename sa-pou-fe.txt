@@ -1,0 +1,36 @@
+https://github.com/henrikingo/impressionist
+https://github.com/regebro/hovercraft
+Ki sa ki python
+ - Revizyon kisa ki pwogramasyon
+ - Pythn definisyon wikipedya (slide vs integrated)
+ -
+Python script
+ - KodKreyol liye tonton
+ - wait user input
+ - script with input
+ - default
+ - param parser
+ - Kontwole bis (for loop)
+
+Web scraping
+ - wikipedya kreyol
+ - the library
+ - get links print
+
+Python rest api
+ - Kisa ki rest API
+ - /api/rest pa neseseman ale nan on fichye html
+ - flak-restplus
+ - Se pa sel fason nou ka fel
+
+Python syanstifik
+ - Data science
+ - Pale de rechech sou ou te kon fe sou type1a supernovae
+ - enstale jupiter
+ - https://www.katacoda.com/lucasjellema/scenarios/jupyter-notebook
+ - Rate of kowona rate in haiti
+    - https://hub.gke.mybinder.org/user/binder-examples-demo-julia-nmt3q7sn/notebooks/demo.ipynb
+
+Aplikasyon ki kreye ak Python
+02e881f7a2a0c8291807306af2e5033cc3c12f984e51c66a
+02e881f7a2a0c8291807306af2e5033cc3c12f984e51c66a
