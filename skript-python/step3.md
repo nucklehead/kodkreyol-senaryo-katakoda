@@ -15,9 +15,9 @@ print(sys.argv)
 
 Pou ou konprann byen sa ki pral pase a, banm eksplike w kòman on pwogram ekzekite sou sistèm ou. 
 
-Lè sistèm ou an oswa python egzekite yon pwogram, sistèm lan ba li kòm premye agiman oswa paramèt chimen fichye "path" pwogram oswa "script" la, apre sa li bay lòt agiman yo.
+Lè sistèm ou an oswa python egzekite yon pwogram, sistèm lan ba li kòm premye agiman oswa paramèt chimen fichye "path" pwogram oswa "script" la nan kontèks kite ou ye, apre sa li bay lòt agiman yo.
 
-Ann gade poun wè
+Ann gade pou n wè
 
 `python annou-kode.py paramèt1 paramèt`{{execute}}
 
@@ -36,13 +36,15 @@ Nou ka tou pwofite rale yon lòt depandans pou dat la epi fòmate l jan nou bezw
 
 Nou ka itilize l konsa
 <pre class="file" data-filename="annou-kode.py" data-target="replace">
-import time
+from datetime import datetime
 
-dat_la = time.time().format('%d%d-%m%m-%y%y%y%y')
-le_a = time.time().format('%I%I:%M%M:%S%S %p')
+kounya = datetime.now()
+
+dat_la = kounya.strftime('%d-%m-%y')
+le_a = kounya.strftime('%I:%M:%S %p')
 
 print(f'Jodia {dat_la}')
-print('Li {le_a}')
+print(f'Li {le_a}')
 print('Mwen fini')
 
 </pre>

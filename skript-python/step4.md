@@ -28,15 +28,15 @@ dat_la = agiman.dat_la
 le_a = agiman.le_a
 
 print(f'Jodia {dat_la}')
-print('Li {le_a}')
+print(f'Li {le_a}')
 print('Mwen fini')
 </pre>
 
 Lè ou fè `parse_args()` ou di l pou li ranmase agiman yo epi mete enfòmasyon an nan varya `agiman` an.
 
-Kounya a si ou pa itilize ankeen agiman, ou wè li ap ba w detay yo pou ka byen itilize script la.
+Kounya a si ou itilize `--help`, ou wè li ap ba w detay yo pou ka byen itilize script la.
 
-`python annou-kode.py`{{execute}}
+`python annou-kode.py --help`{{execute}}
 
 Ann tests ak bon paramèt yo.
 

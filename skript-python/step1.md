@@ -7,7 +7,7 @@ Ann di m vle pou òdinatè a:
 - ekri le jodia
 - di li fini
 
-print() se pou erki nan terminal la
+`print()` se pou erki nan terminal la
 <pre class="file" data-filename="annou-kode.py" data-target="replace">
 print('Bonjou tichaiti')
 </pre>

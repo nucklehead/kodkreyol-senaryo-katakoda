@@ -31,7 +31,8 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uisettings": "python"
+    "uisettings": "python",
+    "hideHiddenFiles": true
   },
   "backend": {
     "imageid": "python:3.6"
